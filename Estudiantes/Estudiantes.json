@@ -1,0 +1,114 @@
+[
+  {
+    "Carrrera": "Ingeniería de Software",
+    "Clubes": [
+      "Club de Futbol",
+      "Club de Software"
+    ],
+    "Nombre": "Christopher Fabricio",
+    "Apellido": "Llano Chinchero",
+    "Cedula": "0503424046"
+  },
+  {
+    "Carrrera": "Ingeniería Electromecanica",
+    "Clubes": [
+      "Club de Danza",
+      "Club de Musica"
+    ],
+    "Nombre": "Alexander",
+    "Apellido": "Chicaiza",
+    "Cedula": "1485759868"
+  },
+  {
+    "Carrrera": "Ingeniería de Software",
+    "Clubes": [
+      "Club de Ajedrez",
+      "Club de Robotica",
+      "Club de Software",
+      "Club de Volley"
+    ],
+    "Nombre": "Darwin",
+    "Apellido": "Taipe",
+    "Cedula": "02658479"
+  },
+  {
+    "Carrrera": "Ingeniería de Automotriz",
+    "Clubes": [
+      "Club de Ajedrez",
+      "Club de Boxeo",
+      "Club de Cine",
+      "Club de Danza",
+      "Club de Musica",
+      "Club de Volley"
+    ],
+    "Nombre": "Adrian",
+    "Apellido": "Salazar",
+    "Cedula": "1365487965"
+  },
+  {
+    "Carrrera": "Ingeniería Mecatronica",
+    "Clubes": [
+      "Club de Futbol",
+      "Club de Robotica",
+      "Club de Software"
+    ],
+    "Nombre": "Kevin",
+    "Apellido": "Arellano",
+    "Cedula": "32654789"
+  },
+  {
+    "Carrrera": "Ingeniería de Software",
+    "Clubes": [
+      "Club de Boxeo",
+      "Club de Musica",
+      "Club de Volley"
+    ],
+    "Nombre": "Lenin",
+    "Apellido": "Llano",
+    "Cedula": "32654789"
+  },
+  {
+    "Carrrera": "Ingeniería Electromecanica",
+    "Clubes": [
+      "Club de Cine",
+      "Club de Robotica",
+      "Club de Software"
+    ],
+    "Nombre": "Carlos",
+    "Apellido": "Medina",
+    "Cedula": "102547896"
+  },
+  {
+    "Carrrera": "Ingeniería de Software",
+    "Clubes": [
+      "Club de Cine",
+      "Club de Robotica",
+      "Club de Software"
+    ],
+    "Nombre": "Rodrigo",
+    "Apellido": "Mendez",
+    "Cedula": "214587965"
+  },
+  {
+    "Carrrera": "Ingeniería de Automotriz",
+    "Clubes": [
+      "Club de Ajedrez",
+      "Club de Futbol",
+      "Club de Volley"
+    ],
+    "Nombre": "Mishell",
+    "Apellido": "Perez",
+    "Cedula": "785468591"
+  },
+  {
+    "Carrrera": "Ingeniería Electronica",
+    "Clubes": [
+      "Club de Ajedrez",
+      "Club de Futbol",
+      "Club de Volley"
+    ],
+    "Nombre": "Adriana",
+    "Apellido": "Perez",
+    "Cedula": "5487635128"
+  }
+]

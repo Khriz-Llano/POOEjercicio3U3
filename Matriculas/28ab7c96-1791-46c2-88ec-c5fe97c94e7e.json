@@ -1,0 +1,61 @@
+{
+  "Fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 23,
+    "second": 12
+  },
+  "estado": "Aprobado",
+  "Estudiante": {
+    "Nombre": "Carlos",
+    "Apellido": "Medina",
+    "Cedula": "102547896"
+  },
+  "Curso": {
+    "Titulo": "Programacion Orientada a Objetos",
+    "Costo": 150.0,
+    "Descripcion": "Clases y Objetos"
+  },
+  "Numero": "28ab7c96-1791-46c2-88ec-c5fe97c94e7e",
+  "Calificaciones": [
+    {
+      "Fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 24,
+        "second": 45
+      },
+      "Valor": 10.0,
+      "Unidad": "I"
+    },
+    {
+      "Fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 24,
+        "second": 48
+      },
+      "Valor": 18.0,
+      "Unidad": "II"
+    },
+    {
+      "Fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 24,
+        "second": 50
+      },
+      "Valor": 15.0,
+      "Unidad": "III"
+    }
+  ],
+  "Promedio": 14.333333
+}

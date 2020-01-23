@@ -1,0 +1,61 @@
+{
+  "Fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 23,
+    "second": 23
+  },
+  "estado": "Aprobado",
+  "Estudiante": {
+    "Nombre": "Mishell",
+    "Apellido": "Perez",
+    "Cedula": "785468591"
+  },
+  "Curso": {
+    "Titulo": "Calculo Diferencial y Integral",
+    "Costo": 300.0,
+    "Descripcion": "Resolución de Derivadas y Integrales"
+  },
+  "Numero": "bb841886-bdb7-40ed-a122-217c4e9d607f",
+  "Calificaciones": [
+    {
+      "Fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 26,
+        "second": 15
+      },
+      "Valor": 12.0,
+      "Unidad": "I"
+    },
+    {
+      "Fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 26,
+        "second": 18
+      },
+      "Valor": 15.0,
+      "Unidad": "II"
+    },
+    {
+      "Fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 26,
+        "second": 21
+      },
+      "Valor": 18.0,
+      "Unidad": "III"
+    }
+  ],
+  "Promedio": 15.0
+}

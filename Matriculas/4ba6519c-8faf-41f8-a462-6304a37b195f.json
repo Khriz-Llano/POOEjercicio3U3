@@ -1,0 +1,61 @@
+{
+  "Fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 22,
+    "second": 55
+  },
+  "estado": "Reprobado",
+  "Estudiante": {
+    "Nombre": "Darwin",
+    "Apellido": "Taipe",
+    "Cedula": "02658479"
+  },
+  "Curso": {
+    "Titulo": "Calculo Diferencial y Integral",
+    "Costo": 300.0,
+    "Descripcion": "Resolución de Derivadas y Integrales"
+  },
+  "Numero": "4ba6519c-8faf-41f8-a462-6304a37b195f",
+  "Calificaciones": [
+    {
+      "Fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 24,
+        "second": 2
+      },
+      "Valor": 12.0,
+      "Unidad": "I"
+    },
+    {
+      "Fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 24,
+        "second": 4
+      },
+      "Valor": 10.0,
+      "Unidad": "II"
+    },
+    {
+      "Fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 24,
+        "second": 9
+      },
+      "Valor": 14.0,
+      "Unidad": "III"
+    }
+  ],
+  "Promedio": 12.0
+}

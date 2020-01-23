@@ -1,0 +1,61 @@
+{
+  "Fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 9,
+    "second": 10
+  },
+  "estado": "Aprobado",
+  "Estudiante": {
+    "Nombre": "Christopher Fabricio",
+    "Apellido": "Llano Chinchero",
+    "Cedula": "0503424046"
+  },
+  "Curso": {
+    "Titulo": "Programacion web",
+    "Costo": 200.0,
+    "Descripcion": "PHP Laravel"
+  },
+  "Numero": "a290fd38-bb41-4dba-88f5-8687f2195178",
+  "Calificaciones": [
+    {
+      "Fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 10,
+        "second": 0
+      },
+      "Valor": 15.0,
+      "Unidad": "I"
+    },
+    {
+      "Fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 10,
+        "second": 6
+      },
+      "Valor": 12.0,
+      "Unidad": "II"
+    },
+    {
+      "Fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 10,
+        "second": 9
+      },
+      "Valor": 16.0,
+      "Unidad": "III"
+    }
+  ],
+  "Promedio": 14.333333
+}

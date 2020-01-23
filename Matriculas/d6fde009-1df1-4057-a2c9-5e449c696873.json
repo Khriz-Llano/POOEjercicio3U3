@@ -1,0 +1,61 @@
+{
+  "Fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 23,
+    "second": 3
+  },
+  "estado": "Aprobado",
+  "Estudiante": {
+    "Nombre": "Kevin",
+    "Apellido": "Arellano",
+    "Cedula": "32654789"
+  },
+  "Curso": {
+    "Titulo": "Programacion Orientada a Objetos",
+    "Costo": 150.0,
+    "Descripcion": "Clases y Objetos"
+  },
+  "Numero": "d6fde009-1df1-4057-a2c9-5e449c696873",
+  "Calificaciones": [
+    {
+      "Fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 26,
+        "second": 44
+      },
+      "Valor": 13.0,
+      "Unidad": "I"
+    },
+    {
+      "Fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 26,
+        "second": 48
+      },
+      "Valor": 20.0,
+      "Unidad": "II"
+    },
+    {
+      "Fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 26,
+        "second": 50
+      },
+      "Valor": 12.0,
+      "Unidad": "III"
+    }
+  ],
+  "Promedio": 15.0
+}

@@ -1,0 +1,61 @@
+{
+  "Fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 23,
+    "second": 17
+  },
+  "estado": "Reprobado",
+  "Estudiante": {
+    "Nombre": "Rodrigo",
+    "Apellido": "Mendez",
+    "Cedula": "214587965"
+  },
+  "Curso": {
+    "Titulo": "Fundamentos de Programacion",
+    "Costo": 100.0,
+    "Descripcion": "Principios de la Programacion"
+  },
+  "Numero": "a52247cc-0c04-4bdb-9175-99cbd6ad4766",
+  "Calificaciones": [
+    {
+      "Fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 26,
+        "second": 0
+      },
+      "Valor": 17.0,
+      "Unidad": "I"
+    },
+    {
+      "Fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 26,
+        "second": 2
+      },
+      "Valor": 10.0,
+      "Unidad": "II"
+    },
+    {
+      "Fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 26,
+        "second": 4
+      },
+      "Valor": 12.0,
+      "Unidad": "III"
+    }
+  ],
+  "Promedio": 13.0
+}

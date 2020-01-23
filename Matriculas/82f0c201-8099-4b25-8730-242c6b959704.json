@@ -1,0 +1,61 @@
+{
+  "Fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 22,
+    "second": 51
+  },
+  "estado": "Aprobado",
+  "Estudiante": {
+    "Nombre": "Alexander",
+    "Apellido": "Chicaiza",
+    "Cedula": "1485759868"
+  },
+  "Curso": {
+    "Titulo": "Fundamentos de Programacion",
+    "Costo": 100.0,
+    "Descripcion": "Principios de la Programacion"
+  },
+  "Numero": "82f0c201-8099-4b25-8730-242c6b959704",
+  "Calificaciones": [
+    {
+      "Fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 24,
+        "second": 58
+      },
+      "Valor": 15.0,
+      "Unidad": "I"
+    },
+    {
+      "Fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 25,
+        "second": 0
+      },
+      "Valor": 10.0,
+      "Unidad": "II"
+    },
+    {
+      "Fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 25,
+        "second": 3
+      },
+      "Valor": 18.0,
+      "Unidad": "III"
+    }
+  ],
+  "Promedio": 14.333333
+}

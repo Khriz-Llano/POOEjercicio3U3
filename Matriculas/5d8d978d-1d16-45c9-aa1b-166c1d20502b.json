@@ -1,0 +1,61 @@
+{
+  "Fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 23,
+    "second": 28
+  },
+  "estado": "Aprobado",
+  "Estudiante": {
+    "Nombre": "Adriana",
+    "Apellido": "Perez",
+    "Cedula": "5487635128"
+  },
+  "Curso": {
+    "Titulo": "Calculo Diferencial y Integral",
+    "Costo": 300.0,
+    "Descripcion": "Resolución de Derivadas y Integrales"
+  },
+  "Numero": "5d8d978d-1d16-45c9-aa1b-166c1d20502b",
+  "Calificaciones": [
+    {
+      "Fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 24,
+        "second": 28
+      },
+      "Valor": 16.0,
+      "Unidad": "I"
+    },
+    {
+      "Fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 24,
+        "second": 30
+      },
+      "Valor": 10.0,
+      "Unidad": "II"
+    },
+    {
+      "Fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 24,
+        "second": 32
+      },
+      "Valor": 18.0,
+      "Unidad": "III"
+    }
+  ],
+  "Promedio": 14.666667
+}

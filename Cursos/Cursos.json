@@ -1,0 +1,8 @@
+[
+	{"Titulo":"Fundamentos de Programacion","Descripcion":"Principios de la Programacion","Costo":100.0},
+	{"Titulo":"Programacion Orientada a Objetos","Descripcion":"Clases y Objetos","Costo":150.0},
+	{"Titulo":"Fisica Fundamental","Descripcion":"Principios de Termodinamica","Costo": 200.0},
+	{"Titulo":"Calculo Diferencial y Integral","Descripcion":"Resolución de Derivadas y Integrales","Costo":300.0},
+	{"Titulo":"Programacion Orientada a Objetos","Descripcion":"Clases y Objetos","Costo":150.0},	
+	{"Titulo":"Programacion web","Descripcion":"PHP Laravel","Costo":200.0}
+]

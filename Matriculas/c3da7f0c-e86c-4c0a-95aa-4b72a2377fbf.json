@@ -1,0 +1,61 @@
+{
+  "Fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 23,
+    "second": 8
+  },
+  "estado": "Reprobado",
+  "Estudiante": {
+    "Nombre": "Lenin",
+    "Apellido": "Llano",
+    "Cedula": "32654789"
+  },
+  "Curso": {
+    "Titulo": "Programacion Orientada a Objetos",
+    "Costo": 150.0,
+    "Descripcion": "Clases y Objetos"
+  },
+  "Numero": "c3da7f0c-e86c-4c0a-95aa-4b72a2377fbf",
+  "Calificaciones": [
+    {
+      "Fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 26,
+        "second": 30
+      },
+      "Valor": 18.0,
+      "Unidad": "I"
+    },
+    {
+      "Fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 26,
+        "second": 32
+      },
+      "Valor": 10.0,
+      "Unidad": "II"
+    },
+    {
+      "Fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 26,
+        "second": 36
+      },
+      "Valor": 13.0,
+      "Unidad": "III"
+    }
+  ],
+  "Promedio": 13.666667
+}
